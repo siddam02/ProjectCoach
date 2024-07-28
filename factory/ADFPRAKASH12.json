@@ -1,0 +1,9 @@
+{
+	"name": "ADFPRAKASH12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb512a6b-3084-4e50-8d4e-bce8e0bce25d",
+		"tenantId": "d762e7b7-0314-4337-aaae-60f02c20a5ae"
+	}
+}
